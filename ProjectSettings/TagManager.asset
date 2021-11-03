@@ -6,6 +6,8 @@ TagManager:
   tags:
   - KillingBlock
   - Coin
+  - Wall
+  - WallStarter
   layers:
   - Default
   - TransparentFX
