@@ -2,9 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerMovement : MonoBehaviour
+public class SecondPlayerMovement : MonoBehaviour
 {
-
 
     [SerializeField]
     private float speed = 2f;
@@ -22,8 +21,8 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        float xAxis = Input.GetAxisRaw("Horizontal");
-        float yAxis = Input.GetAxisRaw("Vertical");
+        float xAxis = Input.GetAxisRaw("SecondPlayerX");
+        float yAxis = Input.GetAxisRaw("SecondPlayerY");
 
         Vector3 direction = new Vector3(xAxis, yAxis, 0f).normalized;
 
