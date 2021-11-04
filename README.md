@@ -1,6 +1,9 @@
 # The-maze-runner
 Escape the maze! On your way you have to collect coins and think how to make it to the end!
 
+
+
+Game Updates:
 ----------------------------------------------------------------------|
 Game patch 1.01:                                                      |
 small add-ons and fixes                                               |
@@ -17,8 +20,7 @@ Added:                                                                |
 -New player                                                           |
 -Game changed to split screen                                         |
 -Changed player spawn position                                        |
-                                                                      |
 Bug fixed:                                                            |
 -Pushing wall fixed                                                   |
 -Pushing wall added tag                                               |
-----------------------------------------------------------------------|
+
