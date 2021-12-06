@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class WallPush : MonoBehaviour
 {
-
+    //Awesome game!
 
     [SerializeField]
     private GameObject Wall;
